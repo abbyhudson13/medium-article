@@ -1,0 +1,32 @@
+.banner {
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 300px;
+  color: white;
+  padding: 120px;
+  text-align: center;
+  margin: 0px;
+}
+
+.container {
+  margin: 0px 100px 0px 100px;
+  font-family: 'Lora', serif;
+}
+
+.article {
+  padding: 30px 200px 0px 200px;
+}
+
+.banner h2 {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  opacity: 0.8;
+}
+.article h2 {
+  color: #888888;
+}
+
+.banner h1 {
+    font-family: 'Montserrat', sans-serif
+}
+
